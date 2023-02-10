@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356679374325",
+    "project_id": "fir-project-36071",
+    "storage_bucket": "fir-project-36071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356679374325:android:904b1e0e4d201745703cbc",
+        "android_client_info": {
+          "package_name": "com.snapsid.loginuicolors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356679374325-7ofbdoaqtcqa03a9gbf2ll1bi728a2lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb46v4MkL1cOfSJlkh9S5pShF5FocLvoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356679374325-7ofbdoaqtcqa03a9gbf2ll1bi728a2lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
